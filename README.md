@@ -1,4 +1,4 @@
-# CISC191-SPRING2020-A
+# CISC191
 Intermediate Java Programming Group A
 ## Prerequisites
 1. Maven
